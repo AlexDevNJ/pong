@@ -40,7 +40,7 @@ int BallPositionChangeX(int left_paddle_position, int right_paddle_position, int
 }
 int BallPositionChangeY(int ball_position_X, int ball_position_Y)
 {
-    /*TODO: make Y movement*/
+
     return ball_position_Y;
 }
 
